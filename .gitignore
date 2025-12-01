@@ -1,0 +1,32 @@
+# --- Flutter ---
+/build/
+**/build/
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/android/.gradle/
+/android/app/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Visual Studio Code
+.vscode/
+
+# --- Node.js ---
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# --- SQL Server ---
+*.bak
+*.trn
+*.ldf
+*.mdf
+
+# --- System ---
+.DS_Store
+Thumbs.db
+*.log
+    
