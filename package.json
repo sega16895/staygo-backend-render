@@ -20,6 +20,7 @@
     "google-auth-library": "^10.4.2",
     "jsonwebtoken": "^9.0.2",
     "mssql": "^11.0.1",
+    "node-cron": "^4.2.1",
     "nodemailer": "^7.0.9",
     "qrcode": "^1.5.4",
     "speakeasy": "^2.0.0",
